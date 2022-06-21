@@ -7,3 +7,13 @@
       Now for this program we are NOT taking any input  
 
 2. 8086 ALP to count the number of words in the given string.
+3. 8086 ALP to toggle the case of characters in the given string. 
+      If the case is capital then the ascii value would lie below 97 and we will add 32 to the this value 
+      to make it small.
+      
+      Similarly if the ascii value is more than or equal to 97 then it is small and we will sub 32 to this value
+      to make it capital. 
+      
+      
+
+
