@@ -14,6 +14,6 @@
       Similarly if the ascii value is more than or equal to 97 then it is small and we will sub 32 to this value
       to make it capital. 
       
-      
+4.8086 ALP to print all the elements of an array.
 
 
