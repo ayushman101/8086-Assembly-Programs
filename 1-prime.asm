@@ -1,3 +1,5 @@
+;Author : Ayushman Singh  Tezpur University,Assam 
+
 .model small
 
 .data
