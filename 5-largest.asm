@@ -1,4 +1,6 @@
-//Author : Ayushman Singh   Tezpur University, Assam
+;Author : Ayushman Singh   Tezpur University, Assam
+
+
 .model small 
 
 .data
