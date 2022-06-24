@@ -18,3 +18,5 @@
 
 5. 8086 ALP  to find and print the largest element from the given array 
 
+6. 8086 ALP  to find all the prime numbers within a range. It only prints the numbers that are prime and NOT their 
+      indices.
