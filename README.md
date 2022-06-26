@@ -20,3 +20,7 @@
 
 6. 8086 ALP  to find all the prime numbers within a range. It only prints the numbers that are prime and NOT their 
       indices.
+
+7. 8086 ALP to sort the given array and then print the sorted array. 
+            NOTE: For arrays containing negative elements the answer on printing will give unexpected results as we need a different logic
+            for printing negative numbers which I have not implemented 
