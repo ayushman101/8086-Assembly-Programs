@@ -1,4 +1,5 @@
 ;Insertion Sort Program 
+;Author : Ayushman Singh     TEZPUR UNIVERSITY , ASSAM 
 
 .model small
 
