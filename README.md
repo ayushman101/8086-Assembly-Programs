@@ -27,3 +27,6 @@
 
 8. 8086 ALP to sort the given array using INSERTION SORT  and then print the sorted array.
             NOTE: Again printed array does not include logic for negative numbers. 
+            
+9.8086 ALP to sort the given array with SELECTION SORT and print the sorted array.
+      NOTE: Cannot print the negative numbers
