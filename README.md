@@ -30,3 +30,5 @@
             
 9.8086 ALP to sort the given array with SELECTION SORT and print the sorted array.
       NOTE: Cannot print the negative numbers
+10. 8086 ALP to find the sum of elements of an array and then compare if its equal to a given 
+    number or not. 
