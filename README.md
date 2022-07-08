@@ -35,3 +35,4 @@
     number or not. 
     
 11. 8086 ALP to check if the given array is sorted or not.     
+12. 8086 ALP to compare three numbers and print the largest of them all.
