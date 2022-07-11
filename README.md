@@ -36,3 +36,5 @@
     
 11. 8086 ALP to check if the given array is sorted or not.     
 12. 8086 ALP to compare three numbers and print the largest of them all.
+
+14.8086 ALP to compare 2 numbers and print the largets number or print "equal" if they are equal.
